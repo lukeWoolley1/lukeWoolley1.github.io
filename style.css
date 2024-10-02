@@ -55,3 +55,21 @@ li a.home_active_color {
 .center_nav_bar {
     text-align: center;
 }
+.homeimage{
+    box-shadow:0 0 20px #c0eefb;
+    border-radius: 10px;
+    position: relative;
+    width: 400px;
+    height:400px;
+    margin-left: 450px;
+    margin-top: 50px;
+    animation: fadeInAnimation ease 3s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+p{
+    text-align: center;
+    padding: 100px;
+    font-weight: bold;
+    font-size: larger;
+}
